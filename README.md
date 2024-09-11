@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arthur Suzuki</h1>
 <h3 align="center">Software Developer based on Recife, Brazil.</h3>
 
-- 🔭 I’m currently working on [Hive](https://github.com/arthursuzuki/hive)
+- 🔭 I’m currently working on [IAM USERS CONTROLLER](https://github.com/arthursuzuki/iamuserscontroller)
 
 - 🌱 I’m currently learning **AWS, C, SQL, Java and some Python packages**
 
-- ⚙️ And also in [Arduino advanced serial monitor](https://github.com/arthursuzuki/ard-monitor)
-
-- 🎮 Helping in [Game of a Tabuleiro Circular with C](https://github.com/P-E-N-T-E-S/Tabuleiro_Circular)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arthursuzuki](https://github.com/arthursuzuki)
 
 - 📝 I published an article [https://docs.google.com/document/d/18v6PWvQFMFDPj8X599wiam_ycD3FgNgp/edit?usp=sharing&ouid=112965088045209688687&rtpof=true&sd=true](https://docs.google.com/document/d/18v6PWvQFMFDPj8X599wiam_ycD3FgNgp/edit?usp=sharing&ouid=112965088045209688687&rtpof=true&sd=true)
 
-- 💬 Ask me about **Arduino, Python, Educational project developments**
 
 - 📫 How to reach me **arthurjlsuzuki@gmail.com**
 
