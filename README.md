@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Suzuki</h1>
 <h3 align="center">Software Developer based on Recife, Brazil.</h3>
 
-- 🔭 I’m currently working on [Iam User Controller](https://github.com/arthursuzuki/iamuserscontroller)
+- 🔭 I’m currently working at Encora Inc.
 
-- 🌱 I’m currently learning **AWS, C, SQL, Java and some Python packages**
+- 🌱 I’m currently learning **AWS, REACT, JS, TS, SQL, Java and some Python packages**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/arthursuzuki](https://github.com/arthursuzuki)
